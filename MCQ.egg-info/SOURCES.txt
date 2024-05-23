@@ -1,0 +1,9 @@
+README.md
+setup.py
+MCQ.egg-info/PKG-INFO
+MCQ.egg-info/SOURCES.txt
+MCQ.egg-info/dependency_links.txt
+MCQ.egg-info/requires.txt
+MCQ.egg-info/top_level.txt
+src/__init__.py
+src/MCQ/__init__.py
