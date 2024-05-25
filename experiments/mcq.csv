@@ -1,0 +1,6 @@
+questions,Options,answer
+When was Python 2.0 released?,"{'a': '1991', 'b': '2000', 'c': '2008', 'd': '2020'}",b
+Who is the designer of Python?,"{'a': 'Guido van Rossum', 'b': 'Larry Page', 'c': 'Mark Zuckerberg', 'd': 'Elon Musk'}",a
+Which programming paradigms does Python support?,"{'a': 'Procedural', 'b': 'Object-oriented', 'c': 'Functional', 'd': 'All of the above'}",d
+"When did Python 2.7.18, the last release of Python 2, come out?","{'a': '2000', 'b': '2008', 'c': '2018', 'd': '2020'}",d
+Which Python version is the oldest supported version as of June 2023?,"{'a': '3.8', 'b': '3.9', 'c': '3.10', 'd': '3.11'}",a
